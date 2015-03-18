@@ -1,0 +1,1 @@
+Here are some of my practical tasks made in university.For most of the projects I used separate compiliation with header file, source cpp and main cpp
