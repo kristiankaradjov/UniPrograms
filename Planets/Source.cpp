@@ -1,4 +1,4 @@
-/planet.cpp
+//planet.cpp
 
 #include "Header.h"
 #include <iostream>
@@ -31,7 +31,7 @@ int printPlanets(Planet s)
 	std::cout << "Planet's name : " << s.name <<std::endl;
 	std::cout << "Planet's distance from sun : " << s.distance << std::endl;
 	std::cout << "Planet's weight : " << s.weight << std::endl;
-	std::cout << "Planet's diemeter : " << s.perimeter << std::endl;	
+	std::cout << "Planet's diemeter : " << s.perimeter << std::endl;
 	return 0;
 }
 

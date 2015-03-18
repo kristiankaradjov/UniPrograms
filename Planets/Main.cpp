@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 
-using namespace std;	
+using namespace std;
 
 int main()
 {
@@ -38,7 +38,7 @@ int main()
 				   cout << " " << endl;
 		}
 			   break;
-		
+
 		case 2:for (int i = 0; i < N; i++)
 		{
 				   cout << " " << endl;
@@ -49,10 +49,10 @@ int main()
 		case 3: heaviest(planets, N);
 			   break;
 		case 4:smallestDiameter(planets, N);
-			   
+
 			   break;
 		case 5:distantPlanet(planets, N);
-			
+
 			   break;
 		case 6:for (int i = 0; i <N; i++)
 		{
